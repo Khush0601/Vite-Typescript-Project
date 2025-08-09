@@ -9,7 +9,7 @@ const App = () => {
     <div className='text-xl font-base text-green-300'>
       hii
     </div>
-    </div>
+    </div> 
   
   )
 }
